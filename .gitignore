@@ -1,0 +1,46 @@
+```gitignore
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+
+# ASP.NET Core
+appsettings.Development.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+
+# Test results
+TestResults/
+
+# Coverage
+coverage/
+*.coverage
+
+# Entity Framework
+Migrations/
+
+# Publish output
+publish/
+```
